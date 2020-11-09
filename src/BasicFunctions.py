@@ -1,3 +1,5 @@
+# Pěkný kalkulátor :) c: "Adam Lang"
+
 # Basic mathematical operations
 
 # Function to add two numbers
